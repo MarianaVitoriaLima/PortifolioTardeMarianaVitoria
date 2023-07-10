@@ -1,0 +1,8 @@
+C:\Users\jogos\Calculadora\Calculadora_Mariana\bin\Debug\Calculadora_Mariana.exe.config
+C:\Users\jogos\Calculadora\Calculadora_Mariana\bin\Debug\Calculadora_Mariana.exe
+C:\Users\jogos\Calculadora\Calculadora_Mariana\bin\Debug\Calculadora_Mariana.pdb
+C:\Users\jogos\Calculadora\Calculadora_Mariana\obj\Debug\Calculadora_Mariana.csproj.AssemblyReference.cache
+C:\Users\jogos\Calculadora\Calculadora_Mariana\obj\Debug\Calculadora_Mariana.csproj.SuggestedBindingRedirects.cache
+C:\Users\jogos\Calculadora\Calculadora_Mariana\obj\Debug\Calculadora_Mariana.csproj.CoreCompileInputs.cache
+C:\Users\jogos\Calculadora\Calculadora_Mariana\obj\Debug\Calculadora_Mariana.exe
+C:\Users\jogos\Calculadora\Calculadora_Mariana\obj\Debug\Calculadora_Mariana.pdb
